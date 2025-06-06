@@ -1,6 +1,3 @@
-Here’s a professional and feature-rich **README description** for your **Price Spier** Flutter app GitHub repository:
-
----
 
 # 💸 Price Spier – Smart Price Tracking App
 
