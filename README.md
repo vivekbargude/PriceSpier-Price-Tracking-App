@@ -94,5 +94,6 @@ We’d love your contributions to improve product support (Flipkart, Walmart, et
 ## 👨‍💻 Developed By
 
 Vivek Bargude
+
 Crafted as a smart solution to automate deal hunting and save money using automation and Flutter.
 
