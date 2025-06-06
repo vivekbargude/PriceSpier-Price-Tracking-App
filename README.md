@@ -38,7 +38,6 @@ With online prices constantly fluctuating, manually tracking them can be tedious
 * Flutter (Dart)
 * Provider / Riverpod (State Management)
 * HTTP (for API integration)
-* Firebase (optional for user auth)
 
 ### Backend (Node.js)
 
@@ -61,7 +60,7 @@ flutter pub get
 flutter run
 ```
 
-### 🌐 For Backend (Optional Self-hosted):
+### 🌐 For Backend:
 
 ```bash
 cd BACKEND\
